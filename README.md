@@ -10,8 +10,12 @@
 -- Marlon, coloque os nós aqui no git e fala como instalar/usar --
 
 ## Comandos compreendidos pelo robo
-
-  O comando a ser realizado pelo robo é definido em 10 caracteres:
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+  -O comando a ser realizado pelo robo é definido em 10 caracteres:
      - Os trer primeiros caracteres definem a direção:
         - 'FRE': Frente;
         - 'DIR': Direita;
