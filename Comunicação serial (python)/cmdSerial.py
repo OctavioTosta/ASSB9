@@ -15,5 +15,5 @@ def escreverNaSerial(msg):
 	tempoEspera = 0		#Tempo de espera para o envio do caracter, aqui zerado pois esse tempo ja esta do outro lado da porta
 	ser = serial.Serial(porta, velocidade, timeout=tempoEspera)		#Abre a porta com os parametros definidos
 	ser.write(msg)		#Escrevendo os caracteres na porta
-	ser.close()			#Fecha a porta serial
+	ser.close()		#Fecha a porta serial
 
