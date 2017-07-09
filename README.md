@@ -35,16 +35,15 @@
         - Valores de 0000 a 9999;
  
 <ul>
-         <li>Matematica
-                       <ol>
-                            <li>Aritmetica
-                                           <ul>
-                                               <li>MCM</li>
-                                               <li>MCD</li>
-                                           </ul>
-                            </li>
-                           
-                            <li> Geometria</li>
-
-                      </ol>
-          </li>
+    <li>Matematica
+        <ol>
+            <li>Aritmetica
+                <ul>
+                    <li>MCM</li>
+                    <li>MCD</li>
+                </ul>
+            </li>
+            <li> Geometria</li>
+        </ol>
+    </li>
+</ul>
