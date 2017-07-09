@@ -60,5 +60,10 @@
                 </ul>
             </li>
         </ol>
+        <li>Exemplo de comando, enviado usando o [codigo simples de comunicação serial](/Comunicação serial (python)/cmdSerial.py)
+            <ul>
+                <li>'FRE0804000': Para frente com 80% da velocidade por 4 segundos;</li>
+            </ul>
+        </li>
     </li>
 </ul>
