@@ -17,10 +17,10 @@
     <li>Item 2</li>
     <li>Item 3</li>
 </ul>
-  -
+  - 
      - Os trer primeiros caracteres definem a direção:
         - 'FRE': Frente;
-        - 'DIR': Direita;
+        - 'DIR': Dizreita;
         - 'TRA': Trás;
         - 'ESQ': Esquerda;
         - 'PAR': Parar;
@@ -35,15 +35,30 @@
         - Valores de 0000 a 9999;
  
 <ul>
-    <li>Matematica
+    <li>O comando do robo a ser executado é definido em 10 caracteres:
         <ol>
-            <li>Aritmetica
+            <li>Os trer primeiros caracteres definem a direção:
                 <ul>
-                    <li>MCM</li>
-                    <li>MCD</li>
+                    <li>'FRE': Frente;</li>
+                    <li>'DIR': Dizreita;/li>
+                    <li>'TRA': Trás;</li>
+                    <li>'ESQ': Esquerda;</li>
+                    <li>'PAR': Parar;</li>
+                    <li>'CE1': Comandos especial um;</li>
+                    <li>'CE2': Comandos especial dois;</li>
+                    <li>'CE3': Comandos especial três;</li>
                 </ul>
             </li>
-            <li> Geometria</li>
+            <li>Do terceiro ao sexto caracter é definida a velocidade, em porcentagem:
+                <ul>
+                    <li>Varia de 000 a 100, onde 000 é 0% e 100 é 100%;</li>
+                </ul>
+            </li>
+            <li>Os quatro ultimos determinam o tempo de execução do comando, em milissegundos (ms):
+                <ul>
+                    <li>Valores de 0000 a 9999;</li>
+                </ul>
+            </li>
         </ol>
     </li>
 </ul>
