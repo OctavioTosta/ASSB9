@@ -36,12 +36,10 @@
                 </ul>
             </li>
         </ol>
-        <li>Exemplo de comando, enviado usando o [codigo simples de comunicação serial](/Comunicação serial (python)/cmdSerial.py)
+        <li>Exemplo de comando, enviado usando o <a href="/Comunicação serial (python)/cmdSerial.py">codigo simples de comunicação serial</a>:
             <ul>
                 <li>'FRE0804000': Para frente com 80% da velocidade por 4 segundos;</li>
             </ul>
         </li>
     </li>
 </ul>
-[ROS](http://www.ros.org/)
-<a href="/Comunicação serial (python)/cmdSerial.py">Voltar para a index</a>
