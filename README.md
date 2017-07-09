@@ -10,30 +10,6 @@
 -- Marlon, coloque os nós aqui no git e fala como instalar/usar --
 
 ## Comandos compreendidos pelo robo
-
-
-<ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-</ul>
-  - 
-     - Os trer primeiros caracteres definem a direção:
-        - 'FRE': Frente;
-        - 'DIR': Dizreita;
-        - 'TRA': Trás;
-        - 'ESQ': Esquerda;
-        - 'PAR': Parar;
-        - 'CE1': Comandos especial um;
-        - 'CE2': Comandos especial dois;
-        - 'CE3': Comandos especial três;
-        
-     - Do terceiro ao sexto caracter é definida a velocidade, em porcentagem:
-        - Varia de 000 a 100, onde 000 é 0% e 100 é 100%;
-        
-     - Os quatro ultimos determinam o tempo de execução do comando, em milissegundos (ms):
-        - Valores de 0000 a 9999;
- 
 <ul>
     <li>O comando do robo a ser executado é definido em 10 caracteres:
         <ol>
@@ -67,3 +43,4 @@
         </li>
     </li>
 </ul>
+[ROS](http://www.ros.org/)
