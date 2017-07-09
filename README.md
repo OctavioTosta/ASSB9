@@ -10,12 +10,14 @@
 -- Marlon, coloque os nós aqui no git e fala como instalar/usar --
 
 ## Comandos compreendidos pelo robo
+
+
 <ul>
     <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
 </ul>
-  -O comando a ser realizado pelo robo é definido em 10 caracteres:
+  -
      - Os trer primeiros caracteres definem a direção:
         - 'FRE': Frente;
         - 'DIR': Direita;
@@ -32,3 +34,17 @@
      - Os quatro ultimos determinam o tempo de execução do comando, em milissegundos (ms):
         - Valores de 0000 a 9999;
  
+<ul>
+         <li>Matematica
+                       <ol>
+                            <li>Aritmetica
+                                           <ul>
+                                               <li>MCM</li>
+                                               <li>MCD</li>
+                                           </ul>
+                            </li>
+                           
+                            <li> Geometria</li>
+
+                      </ol>
+          </li>
